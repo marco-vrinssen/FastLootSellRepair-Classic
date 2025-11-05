@@ -1,0 +1,9 @@
+## Interface: 11504
+## Title: Fast Loot Sell Repair Classic
+## Notes: Instant looting with auto-close, auto-sells junk items, and auto-repairs gear at merchants for World of Warcraft Classic
+## Author: MIYANKO
+## Version: 1.0.0
+## SavedVariables: FastLootSellRepairClassicDB
+
+FastLoot.lua
+AutoMerchant.lua
