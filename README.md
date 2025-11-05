@@ -10,23 +10,9 @@
 - **Auto-Sell Junk**: Automatically sells all grey quality items when visiting a merchant
 - **Auto-Repair**: Automatically repairs all equipped gear when visiting a repair-capable merchant
 
-## Installation
-
-1. Download the addon
-2. Extract to `World of Warcraft/_classic_/Interface/AddOns/`
-3. Restart World of Warcraft or reload UI with `/reload`
-
 ## Usage
 
 The addon works automatically once installed:
 - Loot corpses/containers normally - items are instantly looted
 - Hold your auto-loot modifier key (default: Shift) to manually select items
 - Visit any merchant to auto-sell junk and auto-repair gear
-
-## Requirements
-
-- World of Warcraft Classic (Version 1.15.4+)
-
-## Author
-
-MIYANKO
